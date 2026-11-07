@@ -1,8 +1,7 @@
 macOS Network Troubleshooting Lab
 Project Overview
  - This project demonstrates basic network troubleshooting skills using the macOS Terminal. The objective is to understand IP addressing, network connectivity and DNS resolution.
-Tools Used
- - macOS Terminal
+Tools Used - macOS Terminal
 Lab 1: Identifying the Local IP Address
   Command: ipconfig getifaddr en0
   Purpose: To identify the IPv4 address assigned to the Mac's network interface.
